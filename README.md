@@ -12,3 +12,4 @@ This project aims at using nlp to generate a innovative name for my new-born bab
 
 # Reference
 https://github.com/karpathy/makemore
+Andrew NG Deep Learning Courses
